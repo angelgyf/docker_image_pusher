@@ -3,5 +3,7 @@ langgenius/dify-api:1.4.1
 langgenius/dify-api:1.4.1
 langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.1.1-local
+postgres:15
+redis:7
 python:alpine3.19
 hello-world
